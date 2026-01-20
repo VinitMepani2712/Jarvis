@@ -1,0 +1,11 @@
+SpeechRecognition
+pyaudio
+python-dotenv
+pvporcupine
+sounddevice
+openai
+pyautogui
+gpt4all
+pygetwindow
+psutil
+pywin32
